@@ -72,17 +72,5 @@
   },
   "@openmrs/esm-form-builder-app": {
     "showSchemaSaveWarning": false
-  },
-  "@openmrs/esm-patient-registration-app": {
-    "fieldConfigurations": {
-      "gender": [
-        {
-          "value": "male"
-        },
-        {
-          "value": "female"
-        }
-      ]
-    }
   }
 }
